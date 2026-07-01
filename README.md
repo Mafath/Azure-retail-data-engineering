@@ -90,7 +90,7 @@ Below is the provisioned resource group environment containing the dedicated Azu
 
 * Bronze layer related notebooks
 
-📃 **<a href="Notebooks/Bronze_Layer.ipynbipynb">Bronze Layer</a>** <br>
+📃 **<a href="Notebooks/Bronze_Layer.ipynb">Bronze Layer</a>** <br>
 📃 **<a href="Notebooks/Dynamic Notebook.ipynb">Dynamic Notebook</a>** <br>
 📃 **<a href="Notebooks/Parameters.ipynb">File Parameters</a>**
 
